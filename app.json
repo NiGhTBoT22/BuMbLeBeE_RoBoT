@@ -1,0 +1,31 @@
+{
+      "name" : "ThE_BuMbLeBeE_RoBoT",
+      "description" : "A simple userbot",
+      "repository" : "https://github.com/NiGhTBoT22/BuMbLeBeE_RoBoT",
+      "logo" : "https://telegra.ph/file/be53209b3610a4eefc2a9.jpg",
+      "keywords" : ["python3", "telethon", "userbot"],
+      "repository": "https://github.com/NiGhTBoT22/BuMbLeBeE_RoBoT",
+      "env" : {
+         "TOKEN" : {
+            "description" : "Get from @botfather",
+            "required" : true
+           },
+         "STRING_SESSION" : {
+            "description" : "use your telethon session from any session generator",
+            "required" : true
+           },        
+         "OWNER_ID" : {
+              "description" : "ur tg id",
+               "required" : true
+           },
+         "API_KEY" : {
+              "description" : "Get from my.telegram.org",
+              "required" : true
+           },
+        "API_HASH" : {
+              "description" : "Get from my.telegram.org",
+              "required" : true
+           }
+     }
+ }
+      
