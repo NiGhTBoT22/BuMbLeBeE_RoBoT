@@ -1,0 +1,5 @@
+STRING_SESSION = ''
+TOKEN = ''
+OWNER_ID =
+API_KEY = 
+API_HASH = ''
