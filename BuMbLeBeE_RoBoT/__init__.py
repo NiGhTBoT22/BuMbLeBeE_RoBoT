@@ -3,7 +3,7 @@ from telethon.sessions import StringSession
 import time
 import os, logging
 from logging import basicConfig, getLogger, INFO
-"""Bee"""
+"""BuMbLeBeE_RoBoT"""
 logging.basicConfig(
     format="%(asctime)s - %(name)s - %(levelname)s - %(message)s",
     handlers=[logging.FileHandler("log.txt"), logging.StreamHandler()],
